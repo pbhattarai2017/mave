@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [:video_player] /home/prakash/selfuniv/programming/flutter/mave/build/video_player/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-10:12
+MERGED from [:simple_permissions] /home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/prakash/selfuniv/programming/flutter/mave/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:native_device_orientation] /home/prakash/selfuniv/programming/flutter/mave/build/native_device_orientation/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/8ddd43c094c3d32b55588fb05ef6c840/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/ca0fb7bc8d93126a82fc187a97afc231/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/4899f6db4a528df87f1646df2accfcf3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/1febb00de4add59659ea1272a8d66548/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56a8bca28e809804ec32a67e53a7bb4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a377010b0bdb906d9383abdd6f77dfb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/153050c0a3bf556b1ceae6753157e3f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b394dd53d1ad2209a4de0d0b35afdcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e575718406de420abbeec67d3c8f73e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b20e22b1978bf67e962971e8fb3faedf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/52a85cb8fd5bb267f543d56b663fbc72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c41af0bb329388092295d1687989fcb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a88beaeac97a5955ba85fbff4b0de71/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:70-96
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:8:5-20:19
+	android:label
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:8:67-87
+	android:icon
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:8:88-122
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:8:18-66
+activity#com.example.mave.MainActivity
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:9-19:20
+	android:launchMode
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:48-78
+	android:hardwareAccelerated
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:246-280
+	android:windowSoftInputMode
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:281-323
+	android:configChanges
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:114-245
+	android:theme
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:79-113
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:9:19-47
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:14:13-113
+	android:value
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:14:90-110
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:14:24-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:17:27-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:21:5-71
+MERGED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-71
+MERGED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml:23:22-77
+uses-sdk
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /home/prakash/selfuniv/programming/flutter/mave/build/video_player/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /home/prakash/selfuniv/programming/flutter/mave/build/video_player/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:simple_permissions] /home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:simple_permissions] /home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/prakash/selfuniv/programming/flutter/mave/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/prakash/selfuniv/programming/flutter/mave/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:native_device_orientation] /home/prakash/selfuniv/programming/flutter/mave/build/native_device_orientation/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:native_device_orientation] /home/prakash/selfuniv/programming/flutter/mave/build/native_device_orientation/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/8ddd43c094c3d32b55588fb05ef6c840/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.6.aar/8ddd43c094c3d32b55588fb05ef6c840/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/ca0fb7bc8d93126a82fc187a97afc231/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.6.aar/ca0fb7bc8d93126a82fc187a97afc231/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/4899f6db4a528df87f1646df2accfcf3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.6.aar/4899f6db4a528df87f1646df2accfcf3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/1febb00de4add59659ea1272a8d66548/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/1febb00de4add59659ea1272a8d66548/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56a8bca28e809804ec32a67e53a7bb4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/56a8bca28e809804ec32a67e53a7bb4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a377010b0bdb906d9383abdd6f77dfb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a377010b0bdb906d9383abdd6f77dfb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/153050c0a3bf556b1ceae6753157e3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/153050c0a3bf556b1ceae6753157e3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b394dd53d1ad2209a4de0d0b35afdcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3b394dd53d1ad2209a4de0d0b35afdcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e575718406de420abbeec67d3c8f73e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/6e575718406de420abbeec67d3c8f73e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b20e22b1978bf67e962971e8fb3faedf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b20e22b1978bf67e962971e8fb3faedf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/52a85cb8fd5bb267f543d56b663fbc72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/52a85cb8fd5bb267f543d56b663fbc72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c41af0bb329388092295d1687989fcb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c41af0bb329388092295d1687989fcb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a88beaeac97a5955ba85fbff4b0de71/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/prakash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5a88beaeac97a5955ba85fbff4b0de71/AndroidManifest.xml:20:5-44
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prakash/selfuniv/programming/flutter/mave/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] /home/prakash/selfuniv/programming/flutter/mave/build/camera/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/1febb00de4add59659ea1272a8d66548/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /home/prakash/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.6.aar/1febb00de4add59659ea1272a8d66548/AndroidManifest.xml:24:22-76

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/prakash/selfuniv/programming/flutter/mave/build/simple_permissions/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/prakash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8a7953a8c1524ca91c5e90b525e7a0e9/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]
